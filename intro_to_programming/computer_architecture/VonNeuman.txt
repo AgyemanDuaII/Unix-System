@@ -1,0 +1,6 @@
+Von Neuman model computer is a device capable of performing commands and processing data.
+The subsystems in the Von Neuman model are:
+	1. Central Processing unit - this performs opersyions and processes data
+	2. Main memory - it is a collection of storage location with unique identifiers called Address.
+	3. Input/Output - writes and store programs and data on the computer
+
